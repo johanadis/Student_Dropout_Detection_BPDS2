@@ -1,6 +1,5 @@
 catboost==1.2.8
 imbalanced_learn==0.12.4
-imblearn==0.0
 lightgbm==4.6.0
 matplotlib==3.7.1
 numpy==1.24.4
@@ -8,5 +7,5 @@ pandas==1.5.3
 scikit_learn==1.6.1
 seaborn==0.13.2
 SQLAlchemy==2.0.34
-streamlit==1.43.2
+streamlit==1.45.1
 xgboost==3.0.2
