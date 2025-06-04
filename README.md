@@ -120,14 +120,15 @@ Berikut gambar screenshot prototipe sistem prediksi dropout:
 
 ## Conclusion
 
-Berbagai model klasifikasi diuji untuk mengukur kemampuan prediksi, dengan hasil akurasi sebagai berikut: Logistic Regression (87,34 %), SVM (86,44 %), GradBoost (86,55 %), RandomForest (87,57 %), XGBoost (87,34 %), LightGBM (87,46 %), dan CatBoost (87,01 %). Dari semua opsi tersebut, **RandomForest** menonjol sebagai yang paling andal dalam mengenali mahasiswa berisiko dropout, RandomForest memiliki akurasi tertinggi sekaligus relatif mudah diinterpretasi. Selain keunggulan model, Dashboard menunjukkan bahwa tingkat dropout di Jaya Jaya Institut mencapai 32.1% (1,421 dari 4,424 mahasiswa), yang merupakan masalah signifikan. Faktor utama yang berkontribusi meliputi tantangan finansial, beasiswa, kesulitan akademik,  keadaan pribadi atau Status Perkawinan dan Performa akademik di awal perkuliahan, seperti jumlah mata kuliah yang disetujui / nilai semester awal. Prototipe sistem prediksi dropout yang dikembangkan juga menawarkan wawasan untuk mendukung pengambilan keputusan, sehingga institusi dapat segera mengambil langkah preventif dan strategis.
+Berbagai model klasifikasi diuji untuk mengukur kemampuan prediksi, dengan hasil akurasi sebagai berikut: Logistic Regression (87,34 %), SVM (86,44 %), GradBoost (86,55 %), RandomForest (87,57 %), XGBoost (87,34 %), LightGBM (87,46 %), dan CatBoost (87,01 %). Dari semua opsi tersebut, **RandomForest** menonjol sebagai yang paling andal dalam mengenali mahasiswa berisiko dropout, RandomForest memiliki akurasi tertinggi sekaligus relatif mudah diinterpretasi. Selain keunggulan model, Dashboard menunjukkan bahwa tingkat dropout di Jaya Jaya Institut mencapai 32.1% (1,421 dari 4,424 mahasiswa), yang merupakan masalah signifikan. Faktor utama yang berkontribusi meliputi tantangan finansial, beasiswa, kesulitan akademik,  keadaan pribadi atau status pernikahan dan performa akademik di awal perkuliahan, seperti jumlah mata kuliah yang disetujui / nilai semester awal. Prototipe sistem prediksi dropout yang dikembangkan juga menawarkan wawasan untuk mendukung pengambilan keputusan, sehingga institusi dapat segera mengambil langkah preventif dan strategis.
 
 
 ### Rekomendasi Action Items
 
 Berdasarkan data dan temuan dari dashboard "Pemantauan Dropout Mahasiswa Jaya Jaya Institut," berikut adalah langkah-langkah strategis yang disarankan untuk mengurangi angka dropout dan meningkatkan retensi mahasiswa di Jaya Jaya Institut. Rekomendasi ini dirancang berdasarkan analisis metrik utama seperti status beasiswa, performa akademik, status pernikahan, dan faktor lain yang memengaruhi retensi mahasiswa.
 
-Berikut rekomendasi Action Items:
+
+### **Rekomendasi Action Items**
 
 #### 1. **Perluas Program Beasiswa**
 - **Tindakan**: Tingkatkan jumlah beasiswa yang tersedia, terutama untuk mahasiswa dengan nilai kualifikasi sebelumnya yang rendah (174–178) dan mahasiswa dari latar belakang ekonomi rendah.
