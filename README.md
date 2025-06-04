@@ -127,8 +127,7 @@ Berbagai model klasifikasi diuji untuk mengukur kemampuan prediksi, dengan hasil
 
 Berdasarkan data dan temuan dari dashboard "Pemantauan Dropout Mahasiswa Jaya Jaya Institut," berikut adalah langkah-langkah strategis yang disarankan untuk mengurangi angka dropout dan meningkatkan retensi mahasiswa di Jaya Jaya Institut. Rekomendasi ini dirancang berdasarkan analisis metrik utama seperti status beasiswa, performa akademik, status pernikahan, dan faktor lain yang memengaruhi retensi mahasiswa.
 
-
-### **Rekomendasi Action Items**
+Berikut rekomendasi Action Items:
 
 #### 1. **Perluas Program Beasiswa**
 - **Tindakan**: Tingkatkan jumlah beasiswa yang tersedia, terutama untuk mahasiswa dengan nilai kualifikasi sebelumnya yang rendah (174–178) dan mahasiswa dari latar belakang ekonomi rendah.
