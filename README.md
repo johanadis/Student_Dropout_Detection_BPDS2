@@ -72,13 +72,14 @@ Untuk menyiapkan lingkungan yang diperlukan guna menjalankan aplikasi dan model 
 
 ```
 📂 Student_Dropout_Detection_BPDS2           # Folder utama proyek deteksi mahasiswa dropout
+│   README.md                                   # Dokumentasi proyek
 │   predict.py                                  # Script sederhana untuk prediksi dropout menggunakan model terbaik
 │   notebook.ipynb                              # Notebook eksplorasi dan pelatihan model
 │   app.py                                      # Prototipe sistem prediksi dropout,  berbasis Streamlit 
 │   johanadisantoso-dashboard-1.png             # Gambar dashboard visualisasi (Halaman 1)
 │   johanadisantoso-dashboard-2.png             # Gambar dashboard visualisasi (Halaman 2)
-│   README.md                                   # Dokumentasi proyek
 │   johanadisantoso-dashboard-streamlit.png     # Tampilan Prototipe dalam aplikasi Streamlit
+│   johanadisantoso-video.mp4                   # Video singkat berisi penjelasan dashboard dan kesimpulan
 │   requirements.txt                            # Daftar dependensi Python untuk menjalankan proyek
 │
 ├── model                                     # Folder berisi model dan alat bantu untuk prediksi
@@ -89,6 +90,7 @@ Untuk menyiapkan lingkungan yang diperlukan guna menjalankan aplikasi dan model 
 └── dataset                                   # Folder berisi dataset
     ├── data.csv                                # Dataset utama
     └── education_data_sb.csv                   # Dataset final hasil tahap akhir di notebook
+
 
 ```
 
